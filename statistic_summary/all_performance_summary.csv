@@ -1,0 +1,10 @@
+,model,year,Training Set,Testing Set,HSR,CP1,CP2,Single ICD Code,cp1+cp2+hsr,HSR,CP1,CP2,Single ICD Code,cp1+cp2+hsr
+0,xgboost,1year,High-Continuity,High-Continuity,0.455,0.811,0.591,0.576,0.49,0.466,0.655,0.568,0.539,0.414
+1,xgboost,1year,High-Continuity,Low-Continuity,0.425,0.78,0.623,0.407,0.424,0.466,0.681,0.538,0.382,0.504
+2,xgboost,1year,High-Continuity,Low and High Continuity,0.549,0.867,0.777,0.515,0.5,0.532,0.797,0.702,0.488,0.54
+3,xgboost,1year,Low-Continuity,High-Continuity,0.609,0.708,0.651,0.45,0.412,0.641,0.72,0.632,0.619,0.607
+4,xgboost,1year,Low-Continuity,Low-Continuity,0.998,0.832,0.765,0.993,0.931,0.919,0.806,0.687,0.955,0.869
+5,xgboost,1year,Low-Continuity,Low and High Continuity,0.893,0.832,0.863,0.925,0.857,0.86,0.816,0.802,0.903,0.817
+6,xgboost,1year,Low and High Continuity,High-Continuity,0.87,0.978,0.872,0.83,0.77,0.828,0.93,0.809,0.79,0.777
+7,xgboost,1year,Low and High Continuity,Low-Continuity,1.0,0.985,0.926,0.999,0.979,0.969,0.962,0.84,0.967,0.946
+8,xgboost,1year,Low and High Continuity,Low and High Continuity,0.875,0.928,0.794,0.887,0.846,0.821,0.863,0.725,0.84,0.829

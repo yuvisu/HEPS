@@ -60,7 +60,7 @@ Purpose: Evaluates model fairness across different groups.
 Outputs: Fairness scores saved in the Output/SCORE_fairness directory
 
 # 5. Statistic
-Use the notebook Statistic/format_results.ipynb to compile and view all summary results.
+Use the notebook Statistic/format_results.ipynb to compile and view all summary results. This file is to use check the results without implementing training/testing splicing.
 
 ## Help
 
@@ -76,7 +76,8 @@ HEPS calculation function is in util/measure.get_mpec
 ## Authors
 
 Contributors names and contact info
-[@Yu](https://yuvisu.github.io/)
+[@YuHu](https://huyu.vercel.app)
+[@YuHuang](https://yuvisu.github.io/)
 
 ## Version History
 
