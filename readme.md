@@ -60,7 +60,7 @@ Purpose: Evaluates model fairness across different groups.
 Outputs: Fairness scores saved in the Output/SCORE_fairness directory
 
 # 5. Statistic
-Use the notebook Statistic/format_results.ipynb to compile and view all summary results. This file is to use check the results without implementing training/testing splicing.
+Use the notebook Statistic/format_results.ipynb to compile and view all summary results. This file is to use check the results without implementing training/testing spliting.
 
 ## Help
 
